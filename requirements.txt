@@ -1,0 +1,6 @@
+tensorflow==2.14.0
+keras==2.14.0  # Keras compatible avec TensorFlow 2.14.0
+skillsnetwork==0.21.9  # Dernière version disponible sur PyPI
+numpy==1.23.5
+Pillow==9.5.0
+scipy==1.10.1
